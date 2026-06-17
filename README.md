@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Purvika Bansal</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | B.Tech CSE @ Thapar Institute | CGPA: 9.04</h3>
+<h3 align="center">🚀 Full-Stack Developer | B.Tech CSE @ Thapar Institute</h3>
 
 <p align="center">
   <a href="mailto:purvikabansal05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
